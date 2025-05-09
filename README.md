@@ -1,3 +1,154 @@
 # aditahub.github.io
 
-Introduction
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aditahub | AI & Psychology Portfolio</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #e0b3ff, #ffcce6);
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+
+    header {
+      background-color: #ffffffcc;
+      padding: 2rem;
+      text-align: center;
+      border-bottom: 2px solid #ddd;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      color: #6a0dad;
+    }
+
+    header p {
+      margin-top: 0.5rem;
+      font-style: italic;
+      color: #555;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    section {
+      background: #fff;
+      border-radius: 20px;
+      padding: 2rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    }
+
+    h2 {
+      color: #b300b3;
+      margin-top: 0;
+    }
+
+    .profile-img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 1rem;
+      border: 3px solid #d966ff;
+    }
+
+    .project-placeholder {
+      height: 180px;
+      background-color: #f4e6ff;
+      border-radius: 15px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #aa00aa;
+      font-weight: bold;
+      margin-top: 1rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+
+    a {
+      color: #8a2be2;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 1rem;
+      }
+
+      header h1 {
+        font-size: 2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <!-- Replace src with your image if desired -->
+    <img src="your-photo.jpg" alt="Your profile photo" class="profile-img">
+    <h1>Your Name</h1>
+    <p>Clinical Psychologist | AI Researcher | Lifelong Learner</p>
+  </header>
+
+  <div class="container">
+
+    <section>
+      <h2>About Me</h2>
+      <p>I’m passionate about exploring the intersection of artificial intelligence and human health. With a clinical psychology background and hands-on experience in AI modeling and medical image analysis, I bring a unique, multidisciplinary perspective to research and innovation.</p>
+    </section>
+
+    <section>
+      <h2>AI & Research</h2>
+      <p>Currently working at the <strong>Fetal-Neonatal Neuroimaging and Developmental Science Center</strong> (FNNDSC) at Boston Children's Hospital, I train deep learning models to segment fetal MRI images and evaluate their performance. My recent projects include testing AI pipelines for retinoblastoma eye segmentation and exploring cross-modality generalization challenges in medical imaging.</p>
+    </section>
+
+    <section>
+      <h2>Clinical Psychology Background</h2>
+      <p>My clinical training includes a Master’s in Clinical Psychology from the Hebrew University and a Bachelor’s in Psychology and Philosophy from Tel Aviv University. I’ve worked in hospital and research settings, where understanding human behavior, cognition, and emotion has deeply influenced how I think about AI, ethics, and user-centered design.</p>
+    </section>
+
+    <section>
+      <h2>Learning Philosophy</h2>
+      <p>Curiosity is my compass — I’ve formally studied philosophy, biology, and sociology, and I’m always eager to expand into new domains. I believe that blending diverse perspectives is essential to solving real-world problems.</p>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <p>Here's where I’ll eventually highlight key projects, visualizations, or links to work I’ve done in AI and research. Stay tuned!</p>
+      <div class="project-placeholder">Project Screenshot or Summary Coming Soon</div>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/yourusername" target="_blank">linkedin.com/in/yourusername</a></p>
+    </section>
+
+  </div>
+
+  <footer>
+    © 2025 Your Name. Built with GitHub Pages.
+  </footer>
+
+</body>
+</html>
