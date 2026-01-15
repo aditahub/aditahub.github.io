@@ -2,4 +2,5 @@
 
 ## **Portfolio of a Data Professional**
 
-I turn complex data into actionable insights. With experience in medical imaging, clinical research, and large-scale data pipelines, I design and implement systems that make data usable, reliable, and meaningful. I specialize in combining technical rigor—AI modeling, data cleaning, pipeline automation—with real-world problem solving, collaboration, and clear communication to ensure that insights drive impact.
+Detail-oriented data analyst with a strong learning mindset, experienced in building and analyzing data pipelines and earlier experience in recruitment, interviewing, and career guidance. Skilled in translating complex data into clear insights, with a strong interest in how data informs people and organizational decisions.
+
