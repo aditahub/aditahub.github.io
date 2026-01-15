@@ -8,6 +8,9 @@ Detail-oriented data analyst with a strong learning mindset, experienced in buil
 
 ### Project 1: Data Transfer Pipeline: From Manual Chaos to Scalable System
 
+**Context**
+In my job at Boston Children's Hospital we worked with MRI data day and night. This data was acquired on MRI Scanners accross the Hospitals and Shipped to PACS (the hospital system storing imaging data), it then had to find it's way to the research folders to be further processed and analyzed.
+
 **Problem:**  
 Before this project, data transfer was entirely manual and could only be done by highly technical staff who knew PACS, command-line tools, and internal programs. Each participant required about an hour of effort, creating bottlenecks and slowing research workflows.  
 
