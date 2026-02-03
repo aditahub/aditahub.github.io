@@ -1,4 +1,9 @@
 # Adi Titelman Ashkenazy
+<br>
+
+## Human Thinking &nbsp; &nbsp; | &nbsp; &nbsp;  AI Implementation &nbsp; &nbsp;  | &nbsp; &nbsp;  Usability &nbsp; &nbsp;  | &nbsp; &nbsp;  Pattern Finder  &nbsp; &nbsp; | &nbsp; &nbsp;  Team Bridge
+
+<br>
 
 ## **Human-Centered Healthcare Technology**
 
@@ -6,11 +11,7 @@ I design and evaluate healthcare technologies that are safe, intuitive, and alig
 
 ## **Core Competencies**
 
-**Human-Centered Design & Workflow Optimization:** Observing and improving clinical processes, reducing cognitive load, and enhancing safety and efficiency.
 
-**Healthcare AI & Medical Imaging:** Developing AI tools for image quality evaluation and segmentation that integrate seamlessly into clinical workflows.
-
-**Multidisciplinary Collaboration & Clinical Insight:** Bridging clinicians, researchers, and technical teams to translate real-world needs into actionable solutions.
 
 ## **Featured Projects**
 
