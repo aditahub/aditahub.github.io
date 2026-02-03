@@ -3,7 +3,8 @@
 ## **Human-Centered Healthcare Technology**
 
 I design and evaluate healthcare technologies that are safe, intuitive, and aligned with real-world clinical workflows. My work bridges clinical research, medical imaging AI, and user-centered evaluation to improve how clinicians interact with complex systems. I focus on reducing cognitive load, improving reliability, and supporting decision-making through thoughtful design and analysis.
-Core Competencies
+
+## **Core Competencies**
 
 **Human-Centered Design & Workflow Optimization:** Observing and improving clinical processes, reducing cognitive load, and enhancing safety and efficiency.
 
