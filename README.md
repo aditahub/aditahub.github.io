@@ -1,10 +1,17 @@
 # Adi Titelman Ashkenazy
 
-## **Portfolio of a Data Professional**
+## **Human-Centered Healthcare Technology**
 
-Detail-oriented data analyst with a strong learning mindset, experienced in building and analyzing data pipelines and earlier experience in recruitment, interviewing, and career guidance. Skilled in translating complex data into clear insights, with a strong interest in how data informs people and organizational decisions.
+I design and evaluate healthcare technologies that are safe, intuitive, and aligned with real-world clinical workflows. My work bridges clinical research, medical imaging AI, and user-centered evaluation to improve how clinicians interact with complex systems. I focus on reducing cognitive load, improving reliability, and supporting decision-making through thoughtful design and analysis.
+Core Competencies
 
-## **Projects**
+**Human-Centered Design & Workflow Optimization:** Observing and improving clinical processes, reducing cognitive load, and enhancing safety and efficiency.
+
+**Healthcare AI & Medical Imaging:** Developing AI tools for image quality evaluation and segmentation that integrate seamlessly into clinical workflows.
+
+**Multidisciplinary Collaboration & Clinical Insight:** Bridging clinicians, researchers, and technical teams to translate real-world needs into actionable solutions.
+
+## **Featured Projects**
 
 ### Project 1: Data Transfer Pipeline: From Manual Chaos to Scalable System
 
