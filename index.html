@@ -1,155 +1,151 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Adi Titelman Ashkenazy | AI & Psychology Portfolio</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adi Titelman Ashkenazy Portfolio</title>
   <style>
     body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f4f4f4; /* light gray background */
-      margin: 0;
-      padding: 0;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+      background-color: #fdfdfd;
       color: #333;
     }
 
-    header {
-      background-color: #ffffff; /* white header */
-      padding: 2.5rem 1rem;
+    h1, h2, h3 {
+      font-weight: 700;
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
+    }
+
+    h1 {
+      font-size: 2.5em;
       text-align: center;
-      border-bottom: 1px solid #ddd;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
 
-    header h1 {
-      margin: 0.5rem 0 0;
-      font-size: 2.3rem;
-      color: #6b2e7e; /* soft purple */
-    }
-
-    header p {
-      margin: 0.5rem 0 0;
-      font-style: italic;
-      color: #555;
-    }
-
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 2rem;
-    }
-
-    section {
-      background: #fff;
-      border-radius: 18px;
-      padding: 2rem;
-      margin-bottom: 2rem;
-      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
-    }
-
-    h2 {
-      color: #9b3c8e; /* slightly pinkish purple */
-      margin-top: 0;
-    }
-
-    .profile-img {
-      width: 140px;
-      height: 140px;
-      border-radius: 50%;
-      object-fit: cover;
-      border: 4px solid #d3a1d7; /* soft pinkish border */
-      margin-bottom: 1rem;
-    }
-
-    .project-placeholder {
-      height: 160px;
-      background-color: #f9e6f1; /* very light pink */
-      border-radius: 15px;
+    .core-bullets {
       display: flex;
+      flex-wrap: wrap;
       justify-content: center;
-      align-items: center;
-      color: #8a2b83; /* darker pink */
-      font-weight: 600;
-      margin-top: 1rem;
+      gap: 15px;
+      margin-top: 20px;
+      margin-bottom: 40px;
     }
 
-    footer {
+    .bullet {
+      padding: 8px 16px;
+      border-radius: 20px;
+      font-weight: bold;
+      color: white;
+      font-size: 0.95em;
       text-align: center;
-      padding: 1.5rem 1rem;
-      font-size: 0.85rem;
-      color: #777;
+      min-width: 120px;
     }
 
+    /* Pastel colors for bullets */
+    .human-thinking { background-color: #FFB3BA; }   /* soft pink */
+    .ai-implementation { background-color: #BAE1FF; } /* soft blue */
+    .usability { background-color: #BAFFC9; }         /* soft green */
+    .pattern-finder { background-color: #FFF3BA; }    /* soft yellow */
+    .team-bridge { background-color: #E3BAFF; }       /* soft purple */
+
+    p {
+      margin-bottom: 1em;
+    }
+
+    ul {
+      margin-top: 0.5em;
+      margin-bottom: 1em;
+      padding-left: 1.5em;
+    }
+
+    .project {
+      margin-bottom: 2em;
+    }
+
+    .project h3 {
+      font-size: 1.5em;
+      color: #444;
+    }
+
+    .section-title {
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+      margin-top: 2em;
+      margin-bottom: 1em;
+    }
+
+    hr {
+      margin: 40px 0;
+      border: 0;
+      border-top: 1px solid #ddd;
+    }
+
+    /* Optional: make links standout */
     a {
-      color: #8a2be2; /* purple link */
+      color: #4E78FF;
       text-decoration: none;
-      font-weight: 500;
     }
-
     a:hover {
       text-decoration: underline;
-    }
-
-    @media (max-width: 600px) {
-      .container {
-        padding: 1rem;
-      }
-
-      header h1 {
-        font-size: 1.8rem;
-      }
     }
   </style>
 </head>
 <body>
 
-  <header>
-    <img src="image.jpg" class="profile-img" alt="Adi Titelman Ashkenazy">
-    <h1>Adi Titelman Ashkenazy</h1>
-    <p>Clinical Psychologist | AI Researcher | Lifelong Learner</p>
-  </header>
+  <h1>Adi Titelman Ashkenazy</h1>
 
-  <div class="container">
-
-    <section>
-      <h2>About Me</h2>
-      <p>I’m passionate about exploring the intersection of artificial intelligence and human health. With a background in clinical psychology and hands-on experience in AI modeling and medical image analysis, I bring a unique, multidisciplinary perspective to research and innovation.</p>
-    </section>
-
-    <section>
-      <h2>AI & Research</h2>
-      <p>Currently working at the <strong>Fetal-Neonatal Neuroimaging and Developmental Science Center</strong> (FNNDSC) at Boston Children's Hospital, I train deep learning models to segment fetal MRI images and evaluate their performance. My recent projects include testing AI pipelines for fetal and pediatric eye segmentation and exploring cross-modality generalization challenges in medical imaging.</p>
-    </section>
-
-    <section>
-      <h2>Clinical Psychology Background</h2>
-      <p>My clinical training includes a Master’s in Clinical Psychology from the Hebrew University and a Bachelor’s in Psychology and Philosophy from Tel Aviv University. I’ve worked in hospital and rehabilitation as well as research settings, where understanding human behavior, cognition, and emotion has deeply influenced how I think about AI, ethics, and user-centered design.</p>
-    </section>
-
-    <section>
-      <h2>Learning Philosophy</h2>
-      <p>Curiosity is my compass — I’ve formally studied philosophy, biology, and sociology, but I've taken deep dives into courses in computer science and AI. I’m always eager to expand into new domains and learn more. I believe that blending diverse perspectives is essential to solving real-world problems.</p>
-    </section>
-
-    <section>
-      <h2>Projects</h2>
-      <p>Here's where I’ll eventually highlight key projects, visualizations, or links to work I’ve done in AI and research. Stay tuned!</p>
-      <div class="project-placeholder">Summary Coming Soon</div>
-    </section>
-
-    <section>
-      <h2>Contact</h2>
-      <p>Email: <a href="mailto:adi.titelmanashkenazy@childrens.harvard.edu">adi.titelmanashkenazy@childrens.harvard.edu</a></p>
-      <p>LinkedIn: <a href="https://linkedin.com/in/adi-ta" target="_blank">linkedin.com/in/adi-ta</a></p>
-    </section>
-
+  <!-- Core Competencies -->
+  <div class="core-bullets">
+    <div class="bullet human-thinking">Human Thinking</div>
+    <div class="bullet ai-implementation">AI Implementation</div>
+    <div class="bullet usability">Usability</div>
+    <div class="bullet pattern-finder">Pattern Finder</div>
+    <div class="bullet team-bridge">Team Bridge</div>
   </div>
 
-  <footer>
-    © 2025 Adi Titelman Ashkenazy. Built with GitHub Pages.
-  </footer>
+  <!-- Intro Section -->
+  <h2 class="section-title">Human-Centered Healthcare Technology</h2>
+  <p>I design and evaluate healthcare technologies that are safe, intuitive, and aligned with real-world clinical workflows. My work bridges clinical research, medical imaging AI, and user-centered evaluation to improve how clinicians interact with complex systems. I focus on reducing cognitive load, improving reliability, and supporting decision-making through thoughtful design and analysis.</p>
+
+  <!-- Featured Projects -->
+  <h2 class="section-title">Featured Projects</h2>
+
+  <div class="project">
+    <h3>Project 1: Data Transfer Pipeline: From Manual Chaos to Scalable System</h3>
+
+    <p><strong>Context:</strong><br>
+    In my job at Boston Children's Hospital we worked with MRI data day and night. This data was acquired on MRI scanners across the hospitals and shipped to PACS (the hospital system storing imaging data). It then had to find its way to the research folders to be further processed and analyzed.</p>
+
+    <p><strong>Problem:</strong><br>
+    Before this project, data transfer was entirely manual and could only be done by highly technical staff who knew PACS, command-line tools, and internal programs. Each participant required about an hour of effort, creating bottlenecks and slowing research workflows.</p>
+
+    <p><strong>Solution / What I Built:</strong></p>
+    <ul>
+      <li>Designed a CSV-based data transfer pipeline allowing non-technical team members to pull the right data efficiently.</li>
+      <li>Defined essential fields (date, MRN, acquisition type) and ensured reliability without adding unnecessary complexity.</li>
+      <li>Collaborated with the IT team to align technical requirements with real-world workflow.</li>
+      <li>Trained non-technical staff to operate the pipeline, turning a specialized task into an everyday process.</li>
+      <li>Established a feedback loop to refine the system continuously based on user input.</li>
+    </ul>
+
+    <p><strong>Challenges:</strong><br>
+    Adoption was the main hurdle: while technically the system worked, some users stopped using it due to unclear timelines, limited support, and team coverage. Identifying these organizational and workflow barriers required direct communication with users.</p>
+
+    <p><strong>How I Made Decisions:</strong><br>
+    I treated user behavior as data. When someone stopped using the pipeline, I investigated why rather than assuming technical failure. Solutions prioritized existing knowledge and reduced dependence on specialized skills. Systemic patterns were escalated to leadership for broader adoption.</p>
+
+    <p><strong>Impact:</strong></p>
+    <ul>
+      <li>Reduced data transfer time from ~1 hour per participant to ~5 minutes.</li>
+      <li>Shifted responsibility from technical staff to everyday team members.</li>
+      <li>Leadership supported scaling and institutional adoption recommendations.</li>
+      <li>Created a model for combining technical solutions with human-centered thinking, ensuring systems are both efficient and actually used.</li>
+    </ul>
+  </div>
 
 </body>
 </html>
-
-
